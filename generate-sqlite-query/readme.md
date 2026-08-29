@@ -28,7 +28,7 @@ curl --location 'http://localhost:3000/chat' \
 
 ```
 
-## using hugging face model
+## using hugging face model "Xenova/t5-small-awesome-text-to-sql"
 ```
 The complex querry excution it fails, but in simple queries work good like, 
 Q, customers from Brazil
